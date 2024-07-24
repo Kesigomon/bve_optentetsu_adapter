@@ -1,5 +1,5 @@
 [package]
-name = "bve_opentetsu_adapter"
+name = "bve-opentetsu-adapter"
 version = "0.1.0"
 authors = ["Kesigomon"]
 edition = "2021"
