@@ -6,7 +6,7 @@ A BVE Trainsim ATS-Plugin implementation template in Rust.
 
 ## License
 
-[Unlicense](http://unlicense.org)
+MIT License
 
 ## How to build
 

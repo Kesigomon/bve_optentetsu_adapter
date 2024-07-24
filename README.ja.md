@@ -6,7 +6,7 @@ BVE の ATS プラグインの Rust での実装テンプレートです。
 
 ## ライセンス
 
-[Unlicense](http://unlicense.org)
+MIT ライセンス
 
 ## ビルド方法
 
